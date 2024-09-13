@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?karimUzden09=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **karimUzden09/karimUzden09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
